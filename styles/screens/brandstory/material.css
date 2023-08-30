@@ -159,7 +159,7 @@ section .story_top ul.top_menu{
 .content-bg_1{
   /* min-width: 1000px; */
   height: 600px;
-  background-image: url("../../../images/img_ingredient01_1.jpg");
+  background-image: url("../../images/img_ingredient01_1.jpg");
   background-size: cover;
   background-attachment:fixed;
   z-index: -2;
@@ -193,7 +193,7 @@ section .story_top ul.top_menu{
 .content-bg_1_2{
   width: 100%;
   height: 460px;
-  background-image: url("../../../images/img_ingredient01_2.jpg");
+  background-image: url("../../images/img_ingredient01_2.jpg");
   background-size: cover;
   background-attachment:fixed;
   /* box-sizing: border-box; */
@@ -227,7 +227,7 @@ section .story_top ul.top_menu{
   /* width: 100%; */
   /* padding-top: 20px; */
   height: 800px;
-  background-image: url("../../../images/img_ingredient02_1.jpg");
+  background-image: url("../../images/img_ingredient02_1.jpg");
   background-size: contain;
   background-attachment: fixed;
   background-position: 50% 100%;
@@ -235,7 +235,7 @@ section .story_top ul.top_menu{
 .content-bg_2_2{
   width: 100%;
   height: 412px;
-  background-image: url("../../../images/img_ingredient02_2.jpg");
+  background-image: url("../../images/img_ingredient02_2.jpg");
   background-size: cover;
   background-attachment:fixed;
   /* box-sizing: border-box; */
@@ -267,7 +267,7 @@ section .story_top ul.top_menu{
 .content-bg_3{
   width: 100%;
   height: 900px;
-  background-image: url("../../../images/img_ingredient_pattern.jpg");
+  background-image: url("../../images/img_ingredient_pattern.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: 50% 100%;
@@ -302,7 +302,7 @@ section .story_top ul.top_menu{
 .content-bg_4{
   width: 100%;
   height: 1300px;
-  background-image: url("../../../images/img_ingredient04_1.jpg");
+  background-image: url("../../images/img_ingredient04_1.jpg");
   /* background-size: 100%; */
   background-attachment: fixed;
   /* background-position: 50% 100%; */
@@ -314,7 +314,7 @@ section .story_top ul.top_menu{
 .content-bg_4_2{
   width: 100%;
   height: 650px;
-  background-image: url("../../../images/img_ingredient04_2.jpg");
+  background-image: url("../../images/img_ingredient04_2.jpg");
   background-size: cover;
   background-attachment:fixed;
   /* box-sizing: border-box; */
