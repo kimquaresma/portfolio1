@@ -25,7 +25,7 @@ var markerOptions = {
     position: position,
     map: map,
     icon: {
-        url: '/images/pin.png',
+        url: '../../images/pin.png',
         size: new naver.maps.Size(60, 60),
         origin: new naver.maps.Point(0, 0),
         anchor: new naver.maps.Point(11, 35)
